@@ -1,4 +1,4 @@
-# Linear Discriminant Analysis Dimension Reduction Code From Scratch using R programming language
+# Linear Discriminant Analysis Dimensionsionality Reduction Code From Scratch using R programming language
 Linear Discriminant Analysis code from scratch using R programming language
 
 ## Dataset
