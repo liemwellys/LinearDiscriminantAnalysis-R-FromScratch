@@ -1,5 +1,5 @@
-# Linear Discriminant Analysis Dimensionsionality Reduction Code From Scratch using R programming language
-Linear Discriminant Analysis code from scratch using R programming language
+# Linear Discriminant Analysis Dimensionality Reduction Code From Scratch using R programming language
+Linear Discriminant Analysis code from scratch using R programming language. This code is written for dimensionality reduction in binary class data.
 
 ## Required Packages
 `matlib`<br>
