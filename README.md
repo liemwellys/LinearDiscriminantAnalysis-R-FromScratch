@@ -11,7 +11,7 @@ Linear Discriminant Analysis code from scratch using R programming language
 The dataset in this project are provided [here]
 
 ## Running the program
-Before running the program, makse sure the dataset can be loaded properly from the right filename path. Otherwise, change the following code in line 6-7 into desired filename path.
+Before running the program, makse sure the dataset can be loaded properly from the right filename path. Otherwise, change the following [code](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/LDA.R) in line 6-7 into desired filename path.
 
 ```R
 class0 <- read.csv("D:/0.txt", header=FALSE)
