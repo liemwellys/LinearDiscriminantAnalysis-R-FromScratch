@@ -8,7 +8,7 @@ Linear Discriminant Analysis code from scratch using R programming language. Thi
 `caret`<br>
 
 ## Dataset
-The dataset in this project are provided [here]
+The dataset in this project are ["0 class"](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/0.txt) and ["1 class"](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/1.txt) from MNIST dataset. There are no header in those files.
 
 ## Running the program
 Before running the program, makse sure the dataset can be loaded properly from the right filename path. Otherwise, change the following [code](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/LDA.R) in line 6-7 into desired filename path.
