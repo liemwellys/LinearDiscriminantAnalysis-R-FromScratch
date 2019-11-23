@@ -11,7 +11,7 @@ Linear Discriminant Analysis code from scratch using R programming language. Thi
 The dataset in this project are ["0 class"](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/0.txt) and ["1 class"](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/1.txt) from MNIST dataset. Both of them contain a matrix in size 234x784, which represents 234 images of size 28x28 pixel.
 
 ## Running the program
-Before running the program, makse sure the dataset can be loaded properly from the right filename path. Otherwise, change the following [code](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/LDA.R) in line 6-7 into desired filename path.
+Before running the program, makse sure the dataset can be loaded properly from the right filename path. Otherwise, change the following [code](https://github.com/liemwellys/LinearDiscriminantAnalysis-R-FromScratch/blob/master/LDA.R#L6) in line 6-7 into desired filename path.
 
 ```R
 class0 <- read.csv("D:/0.txt", header=FALSE)
